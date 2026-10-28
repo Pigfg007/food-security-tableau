@@ -1,6 +1,5 @@
 # Food Security Tableau Dashboard
 
-NTU MSBA AN6004 Data Management & Visualization – Group Project
 
 ## Contents
 - `BUILD_GUIDE.md` — Design system, layout, and rebuild instructions
@@ -17,4 +16,4 @@ NTU MSBA AN6004 Data Management & Visualization – Group Project
 2. Use the scripts in `_build/` to regenerate the Tableau workbook if needed.
 3. Open the resulting `.twb` / `.twbx` in Tableau Desktop.
 
-This is an academic visualization project focusing on food security burden and progress across countries and regions.
+Focus on food security burden and progress across countries and regions.
